@@ -48,7 +48,7 @@ Follow these steps to run the project locally on your machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/vivekjoshi2006/Sentiment_Analysis_Web_App.git
+    git clone https://github.com/vivekjoshi2006/Sentiment-Analyzer.git
     cd flask-sentiment-analysis
     ```
 
