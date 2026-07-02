@@ -1,4 +1,4 @@
-# 📝 Sentiment Analyzer — NLP-Powered Sentiment Analyzer
+# 📝 Sentiment Analyzer — NLP-Powered Sentiment Analysis Web App
 
 A sleek and lightweight web application built with **Flask** and **TextBlob** that performs real-time Natural Language Processing (NLP) to determine the sentiment of any given text.
 
